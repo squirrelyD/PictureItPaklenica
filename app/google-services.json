@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "738580405850",
+    "firebase_url": "https://pictureitpaklenica.firebaseio.com",
+    "project_id": "pictureitpaklenica",
+    "storage_bucket": "pictureitpaklenica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738580405850:android:2a586b7d56f06617fec263",
+        "android_client_info": {
+          "package_name": "hr.ferit.tivanovacmatija.pictureitpaklenica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738580405850-gu7b9ufcb6c98s6h2lijomrlvmlstigd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbNqF9L_YTTB7WLpLBOYTEhlo5zW_lU1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738580405850-gu7b9ufcb6c98s6h2lijomrlvmlstigd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
